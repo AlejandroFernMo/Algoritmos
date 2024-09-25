@@ -1,4 +1,4 @@
-# 3 Dados los catetos de un triángulo rectángulo, calcular su hipotenusa.
+# 2 Calcular el perímetro y área de un rectángulo dada su base y su altura.
 
 1. Iniciar
 3. Leer base
@@ -9,6 +9,6 @@
 8. Fin
 
 ## Diagrama
-<img src=img/Act3.png>
+<img src=img/Act2.png>
 
 <a href=README.md > Volver </a>

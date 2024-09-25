@@ -5,3 +5,5 @@
 3. Leer nombre
 4. Saludar -> Saludo + nombre
 5. Fin
+
+<img src=img/Act1.png>

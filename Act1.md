@@ -6,4 +6,5 @@
 4. Saludar -> Saludo + nombre
 5. Fin
 
+## Diagrama
 <img src=img/Act1.png>

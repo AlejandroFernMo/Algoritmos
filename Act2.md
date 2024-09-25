@@ -9,6 +9,6 @@
 8. Fin
 
 ## Diagrama
-<img src=img/Act1.png>
+<img src=img/Act2.png>
 
 <a href=README.md > Volver </a>

@@ -5,7 +5,7 @@
 3. Leer y1
 4. Leer x2
 5. Leer y2
-6. Calcular Distancia sqr(( x2 - x1  )) ^ 2 + ( y2 - y1 ) ^ 2)
+6. Calcular Distancia = $\sqrt{( x2 - x1  )) ^ 2 + ( y2 - y1 ) ^ 2}$
 7. Mostrar distancia
 8. Fin
 

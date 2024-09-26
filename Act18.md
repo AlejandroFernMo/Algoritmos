@@ -1,4 +1,4 @@
-# 17  Pedir el nombre y los dos apellidos de una persona y mostrar las iniciales
+# 18  Pedir el nombre y los dos apellidos de una persona y mostrar las iniciales
 1. Iniciar
 2. Leer Nombre
 3. Leer Apellido1

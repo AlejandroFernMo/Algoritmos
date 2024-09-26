@@ -4,8 +4,8 @@
 2. Leer num
 3. Calcular Suma = num + suma
 4. contador = contador ++
-5. Si contador < 3
-     Ir a paso 2
+5. Si contador < 3; <br>
+&nbsp;&nbsp;&nbsp;&nbsp;     Ir a paso 2
 6. Calcular Media = Suma / contador
 7. Mostrar Media
 8. Fin

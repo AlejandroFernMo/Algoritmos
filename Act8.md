@@ -3,12 +3,14 @@
 2. Mostrar mensaje si metes 0 en comision deja de pedir numeros
 3. Leer sueldo_base
 4. Leer ventas_comision
-5. Calcular comision = (ventas_comision * 0.10 ) + comisión
-6. Si ventas_comision <= 0 ;
-     Ir a 3
-8. Calcular SueldoTotal = comision + Sueldo_base
-9. Mostrar SueldoTotal + comision + Sueldo_base
-10. Fin
+5. Si ventas_comision < 0 ;
+      Ir a 4 
+7. Calcular comision = (ventas_comision * 0.10 ) + comisión
+8. Si ventas_comision != 0 ;
+     Ir a 4
+9. Calcular SueldoTotal = comision + Sueldo_base
+10. Mostrar SueldoTotal + comision + Sueldo_base
+11. Fin
 
 ## Diagrama
 <img src=img/Act8.png>

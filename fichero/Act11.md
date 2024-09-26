@@ -3,12 +3,12 @@
 1. Iniciar
 2. Leer num1
 3. Leer num2
-4. Si num1 > num2;
-     Distancia = num1 - num2
-5. Si num1 < num2;
-     Distancia = num2 - num1
-6. Si num1 == num2;
-     Distancia = 0
+4. Si num1 > num2;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;     Distancia = num1 - num2
+5. Si num1 < num2;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;     Distancia = num2 - num1
+6. Si num1 == num2;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;     Distancia = 0
 7. Mostrar distancia
 8. Fin
 

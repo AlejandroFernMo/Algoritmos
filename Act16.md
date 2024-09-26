@@ -5,7 +5,7 @@
 4. Leer d
 5. Si v1 < v2;<br>
 &nbsp;&nbsp;&nbsp;&nbsp;tiempo = ((v1 + d) / v2) 
-&nbsp;&nbsp;&nbsp;&nbsp;Ir a 8
+&nbsp;&nbsp;&nbsp;&nbsp;Ir a 7
 6. tiempo = ((v2 + d) / v1) 
 7. minutos = tiempo * 60
 8. Fin

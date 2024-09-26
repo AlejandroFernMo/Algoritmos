@@ -5,12 +5,12 @@
 3. Leer num2
 4. Si num1 > num2;
      Distancia = num1 - num2
-6. Si num1 < num2;
+5. Si num1 < num2;
      Distancia = num2 - num1
-8. Si num1 == num2;
+6. Si num1 == num2;
      Distancia = 0
-10. Mostrar distancia
-11. Fin
+7. Mostrar distancia
+8. Fin
 
 ## Diagrama
 <img src=img/Act11.png>

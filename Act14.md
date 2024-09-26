@@ -2,11 +2,11 @@
 1. Iniciar
 2. Leer num
 3. Si num < 10 o num > 99;<br>
-&nbsp;&nbsp;Ir a 2
+&nbsp;&nbsp;&nbsp;&nbsp;Ir a 2
 4. num = num - 10
 5. Contador = Contador ++
-6. Si num >= 10;
-&nbsp;&nbsp;Ir a 4
+6. Si num >= 10;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Ir a 4
 7. Reves = num * 10 + contador
 8. Fin
 

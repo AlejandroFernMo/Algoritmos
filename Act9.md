@@ -3,7 +3,7 @@
 2. Leer compra
 3. Calcular  PrecioFinal = compra - (compra * 0.15)
 4. Mostrar PrecioFinal
-10. Fin
+5. Fin
 
 ## Diagrama
 <img src=img/Act9.png>

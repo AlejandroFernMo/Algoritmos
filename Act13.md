@@ -2,10 +2,12 @@
 
 1. Iniciar
 2. Leer num
-3. Calcular Raiz2 = sqr(num)
-4. Calcular Raiz3 = num ^ (1/3)
-5. Mostrar mensaje + Raiz2 + Raiz3
-6. Fin
+3. Si num < 0;
+     Ir a 2
+4. Calcular Raiz2 = sqr(num)
+5. Calcular Raiz3 = num ^ (1/3)
+6. Mostrar mensaje + Raiz2 + Raiz3
+7. Fin
 
 ## Diagrama
 <img src=img/Act13.png>

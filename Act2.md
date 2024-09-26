@@ -3,8 +3,8 @@
 1. Iniciar
 3. Leer base
 4. Leer altura
-5. Calcular area -> (base * altura) / 2
-6. Calcular perimetro -> base + $\sqrt{ (base / 2) ^ 2 + altura ^2}$   + $\sqrt{ (base / 2) ^ 2 + altura ^2}$ 
+5. Calcular area -> base * altura
+6. Calcular perimetro -> base ^2 + altura ^2
 7. Mostrar -> Mensaje + area + perimetro
 8. Fin
 

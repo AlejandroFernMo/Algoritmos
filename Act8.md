@@ -6,9 +6,9 @@
 5. Calcular comision = (ventas_comision * 0.10 ) + comisión
 6. Si ventas_comision != 0
      Ir a 3
-7. Calcular SueldoTotal = comision + Sueldo_base
-8. Mostrar SueldoTotal + comision + Sueldo_base
-9. Fin
+8. Calcular SueldoTotal = comision + Sueldo_base
+9. Mostrar SueldoTotal + comision + Sueldo_base
+10. Fin
 
 ## Diagrama
 <img src=img/Act7.png>

@@ -2,7 +2,7 @@
 1. Iniciar
 2. Leer num
 3. Si num < 10 o num > 99;<br>
-''     Ir a 2
+&nbsp;&nbsp;    Ir a 2
 4. Si num == 10; Ir 20
 5. 
 6. Calcular Raiz3 = num ^ (1/3)

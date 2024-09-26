@@ -2,11 +2,12 @@
 1. Iniciar
 2. Leer num
 3. Si num < 10 o num > 99;<br>
-&nbsp;&nbsp;    Ir a 2
-4. Si num == 10; Ir 20
-5. 
-6. Calcular Raiz3 = num ^ (1/3)
-7. Mostrar mensaje + Raiz2 + Raiz3
+&nbsp;&nbsp;Ir a 2
+4. num = num - 10
+5. Contador = Contador ++
+6. Si num >= 10;
+&nbsp;&nbsp;Ir a 4
+7. Reves = num * 10 + contador
 8. Fin
 
 ## Diagrama

@@ -13,4 +13,4 @@
 ## Diagrama
 <img src=img/Act16.png>
 
-<a href=README.md > Volver </a>
+<a href=../README.md > Volver </a>

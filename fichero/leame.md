@@ -1,1 +1,1 @@
-Carpeta con ficheros
+Carpeta los ficheros de las actividades

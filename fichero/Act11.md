@@ -15,4 +15,4 @@
 ## Diagrama
 <img src=img/Act11.png>
 
-<a href=README.md > Volver </a>
+<a href=../README.md > Volver </a>

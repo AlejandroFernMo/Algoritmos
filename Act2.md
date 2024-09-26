@@ -4,7 +4,7 @@
 3. Leer base
 4. Leer altura
 5. Calcular area -> base * altura
-6. Calcular perimetro -> base ^2 + altura ^2
+6. Calcular perimetro -> 2 * base +  2* altura
 7. Mostrar -> Mensaje + area + perimetro
 8. Fin
 

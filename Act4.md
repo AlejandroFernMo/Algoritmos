@@ -6,7 +6,7 @@
 5. Calcular suma -> num1 + num2
 6. Calcular resta -> num1 - num2
 7. Si num2 == 0;<br>
-&nbsp;&nbsp;&nbsp;&nbsp;     mensaje_error = "Error"
+&nbsp;&nbsp;&nbsp;&nbsp;     mensaje_error = "Error"<br>
 &nbsp;&nbsp;&nbsp;&nbsp;     ir a paso 9
 8. Calcular division -> num1 / num2
 9. Calcular mulplicacion -> num1 * num2
